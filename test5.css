@@ -1,0 +1,9 @@
+h3.header {
+  font-style: italic;
+  background-color: #0a8181;
+}
+
+div.text {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #ef523d;
+}

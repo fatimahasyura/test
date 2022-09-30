@@ -2,9 +2,14 @@
 <html lang="en">
 <head>
     <title>@media</title>
-    <link rel="stylesheet" type="text/css" href="test5.css">
+    <link rel="stylesheet" type="text/css" href="test5.css" media="print">
+    <style media="print">
+        h3.header {color: #0a8181;}
+        div.text {color: #ef523d;}
+    </style>
 </head>
 <body>
-    
+    <h3 class="header">Successful purchase!</h3>
+    <div class="text">You will receive an email shortly.</div>
 </body>
 </html>

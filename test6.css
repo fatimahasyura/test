@@ -1,0 +1,7 @@
+.border1{
+    margin:10px; /*margin-top/bottom/right/left->10px*/
+    padding:20px; /*padding-top/bottom/right/left->20px*/
+    border-width: 5px; /*adjust border size*/
+    border-style: dotted; 
+    border-color: blue;
+}
